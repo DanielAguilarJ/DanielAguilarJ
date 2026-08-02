@@ -1,0 +1,5 @@
+# Dependencias para regenerar el retrato ASCII (scripts/).
+# No hacen falta para leer el perfil: los SVG ya están versionados.
+pillow==12.1.0
+numpy==2.4.2
+opencv-python==5.0.0.93

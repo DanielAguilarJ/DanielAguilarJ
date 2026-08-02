@@ -2,6 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0EA5E9&height=210&section=header&text=Kevin%20Daniel%20Aguilar%20Junco&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Computer%20Vision%20%C2%B7%20Deep%20Learning%20%C2%B7%20AI%20for%20Sustainable%20Tech&descAlignY=52&descSize=16" width="100%"/>
 
+<!-- retrato ASCII monocromo: se "escribe" solo, como una terminal, y se congela.
+     regenerar:  python3 scripts/prep_photo.py && python3 scripts/make_ascii_svg.py -->
+
+<h3><code>daniel@github ~ $ ./portrait.sh</code></h3>
+
+<img src="./assets/daniel-ascii.svg" width="430" alt="Kevin Daniel Aguilar Junco — retrato ASCII animado" />
+
+<br>
+<br>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=Computer+Vision+%26+Video+Understanding+Researcher;Deep+Learning+for+Aquaculture+%26+Sustainability;Founder+%40+AquaGuard+%F0%9F%92%A7;Currently+in+Germany+%F0%9F%87%A9%F0%9F%87%AA+%E2%80%94+IAESTE+Research+Intern" alt="Typing SVG" />
 
 <p>
@@ -178,6 +188,38 @@ Native Windows app adjusting display temperature to the local solar position, re
 🗣️ Spanish (native) · English (full professional proficiency)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0F172A&height=100&section=footer" width="100%"/>
+
+<details>
+<summary><b>🖼️ Cómo se hace el retrato ASCII</b></summary>
+
+<br>
+
+El retrato de arriba es un SVG generado desde mi foto de perfil. No es un GIF: son
+53 filas de texto que se revelan de arriba a abajo con animaciones SMIL (GitHub las
+ejecuta al embeber el SVG; JavaScript no).
+
+```sh
+pip install -r scripts/requirements.txt
+python3 scripts/prep_photo.py        # assets/source-photo.jpeg -> assets/source-prepped.png
+python3 scripts/make_ascii_svg.py    # -> assets/daniel-ascii.svg
+```
+
+- **`prep_photo.py`** aísla al sujeto por *croma*: el fondo de un avatar de estudio
+  es claro y desaturado (S ≤ 48) mientras que piel, pelo y ropa arrancan en S ≈ 64,
+  así que no hace falta descargar un modelo de segmentación. Luego suaviza la piel
+  con un filtro bilateral (conserva ojos, boca y mechones; elimina el grano que en
+  ASCII se ve como ruido), estira el rango tonal y compone al sujeto sobre negro.
+- **`make_ascii_svg.py`** muestrea esa imagen en una rejilla de 100 × 53 y mapea
+  **claro → carácter denso**. El SVG dibuja tinta clara sobre fondo oscuro, así que
+  el brillo de cada celda *es* su densidad de tinta: el mapeo directo da un positivo
+  fotográfico, y el inverso convertiría la cara en un hueco negro con el pelo
+  brillando. Las sombras se levantan un poco (`LIFT`) para que el pelo oscuro no se
+  funda con el fondo y la cabeza conserve silueta.
+
+`STATIC=1 python3 scripts/make_ascii_svg.py` emite el estado final sin animación,
+útil para revisar el encuadre.
+
+</details>
 
 <div align="center">
 <i>"The best way to predict the future is to build it — through rigorous research and exceptional software."</i>
