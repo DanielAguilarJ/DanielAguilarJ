@@ -205,7 +205,7 @@ A native Windows app that adjusts monitor color temperature to local solar posit
 
 Material resistance and stiffness analysis through mechanical experiments, simulation, MATLAB, and AI at the Faculty of Mechanical Engineering, under **Prof. Jan Reimann**.
 
-### 🇨🇿 VSB–Technical University of Ostrava
+### 🇨🇿 University of South Bohemia
 **Individual Fish Identification · Summer School**
 
 A mobile-to-server workflow that uses short videos and computer vision to identify individual fish — the research context behind **FISHDEX**.
