@@ -1,0 +1,336 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1280"
+  height="560"
+  viewBox="0 0 1280 560"
+  fill="none"
+  role="img"
+  aria-labelledby="title description"
+>
+  <title id="title">Kevin Daniel Aguilar Junco</title>
+  <desc id="description">
+    Renewable Energy Engineering student, Computer Vision Researcher,
+    and Founder of AquaGuard. An animated orbital illustration connects
+    solar energy, computer vision, and water technology.
+  </desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080D19"/>
+      <stop offset=".52" stop-color="#0D1526"/>
+      <stop offset="1" stop-color="#091E28"/>
+    </linearGradient>
+
+    <radialGradient id="violetGlow" cx="0" cy="0" r="1"
+      gradientTransform="translate(370 -110) rotate(90) scale(550 680)"
+      gradientUnits="userSpaceOnUse">
+      <stop stop-color="#818CF8" stop-opacity=".15"/>
+      <stop offset="1" stop-color="#818CF8" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="tealGlow" cx="0" cy="0" r="1"
+      gradientTransform="translate(1010 285) rotate(90) scale(290 320)"
+      gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2DD4BF" stop-opacity=".15"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="coreGlow" cx="0" cy="0" r="1"
+      gradientTransform="translate(1000 274) rotate(90) scale(112)"
+      gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FBBF24" stop-opacity=".17"/>
+      <stop offset=".65" stop-color="#2DD4BF" stop-opacity=".07"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="nameGradient" x1="66" y1="210" x2="638" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset=".55" stop-color="#CFFAFE"/>
+      <stop offset="1" stop-color="#5EEAD4"/>
+    </linearGradient>
+
+    <linearGradient id="edge" x1="0" y1="0" x2="1280" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#818CF8" stop-opacity=".45"/>
+      <stop offset=".4" stop-color="#334155" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity=".45"/>
+    </linearGradient>
+
+    <linearGradient id="bolt" x1="975" y1="223" x2="1022" y2="318" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FEF3C7"/>
+      <stop offset=".5" stop-color="#FCD34D"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+
+    <linearGradient id="divider" x1="66" y1="0" x2="1214" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FBBF24" stop-opacity=".8"/>
+      <stop offset=".48" stop-color="#38BDF8" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity=".65"/>
+    </linearGradient>
+
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#94A3B8" fill-opacity=".11"/>
+    </pattern>
+
+    <clipPath id="roundedCanvas">
+      <rect x="1" y="1" width="1278" height="558" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .sans {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+    }
+
+    .mono {
+      font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+    }
+
+    .orbit {
+      transform-origin: 1000px 274px;
+      animation: orbit 40s linear infinite;
+    }
+
+    .orbit-reverse {
+      transform-origin: 1000px 274px;
+      animation: orbit 55s linear infinite reverse;
+    }
+
+    .signal {
+      stroke-dasharray: 5 13;
+      animation: signal 8s linear infinite;
+    }
+
+    .beacon {
+      animation: beacon 4s ease-in-out infinite;
+    }
+
+    @keyframes orbit {
+      to { transform: rotate(360deg); }
+    }
+
+    @keyframes signal {
+      to { stroke-dashoffset: -108; }
+    }
+
+    @keyframes beacon {
+      0%, 100% { opacity: .45; }
+      50% { opacity: 1; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .orbit, .orbit-reverse, .signal, .beacon {
+        animation: none;
+      }
+    }
+  </style>
+
+  <g clip-path="url(#roundedCanvas)">
+
+    <!-- Atmosphere -->
+    <rect width="1280" height="560" fill="url(#background)"/>
+    <rect width="1280" height="560" fill="url(#dots)"/>
+    <rect width="1280" height="560" fill="url(#violetGlow)"/>
+    <rect width="1280" height="560" fill="url(#tealGlow)"/>
+
+    <!-- Quiet topographic lines -->
+    <g stroke="#5EEAD4" stroke-opacity=".045" stroke-width="1.5">
+      <path d="M550 560C690 420 600 305 738 158S966 19 1018-90"/>
+      <path d="M588 560C728 420 638 305 776 158S1004 19 1056-90"/>
+      <path d="M626 560C766 420 676 305 814 158S1042 19 1094-90"/>
+      <path d="M664 560C804 420 714 305 852 158S1080 19 1132-90"/>
+      <path d="M702 560C842 420 752 305 890 158S1118 19 1170-90"/>
+    </g>
+
+    <!-- Personal mark -->
+    <rect x="66" y="43" width="44" height="44" rx="13"
+      fill="#111F30" stroke="#5EEAD4" stroke-opacity=".35"/>
+
+    <text x="88" y="71" text-anchor="middle"
+      class="mono" fill="#99F6E4" font-size="17" font-weight="700">DA</text>
+
+    <text x="128" y="61" class="mono"
+      fill="#D8E4EF" font-size="12" letter-spacing="2">DANIEL AGUILAR</text>
+
+    <text x="128" y="81" class="mono"
+      fill="#8295AD" font-size="10" letter-spacing="1.6">RESEARCH &amp; ENGINEERING</text>
+
+    <!-- Collaboration marker -->
+    <circle cx="1027" cy="62" r="4" fill="#5EEAD4" class="beacon"/>
+    <text x="1040" y="66" class="mono"
+      fill="#99B8BE" font-size="10" letter-spacing="1.1">OPEN TO COLLABORATION</text>
+
+    <!-- Main typography -->
+    <text x="62" y="181" class="sans"
+      fill="#F8FAFC" font-size="76" font-weight="750" letter-spacing="-3">
+      Kevin Daniel
+    </text>
+
+    <text x="62" y="262" class="sans"
+      fill="url(#nameGradient)" font-size="76" font-weight="750" letter-spacing="-3">
+      Aguilar Junco.
+    </text>
+
+    <text x="66" y="316" class="sans"
+      fill="#DCE7F3" font-size="25" font-weight="500">
+      Renewable energy. Intelligent systems.
+    </text>
+
+    <text x="66" y="351" class="sans"
+      fill="#91A4BC" font-size="22">
+      Building technology with an environmental purpose.
+    </text>
+
+    <!-- Three fields -->
+    <g class="mono" font-size="11" letter-spacing="1">
+      <rect x="66" y="391" width="194" height="36" rx="18"
+        fill="#FBBF24" fill-opacity=".07" stroke="#FBBF24" stroke-opacity=".26"/>
+      <circle cx="85" cy="409" r="3" fill="#FBBF24"/>
+      <text x="99" y="413" fill="#FDE68A">RENEWABLE ENERGY</text>
+
+      <rect x="272" y="391" width="187" height="36" rx="18"
+        fill="#38BDF8" fill-opacity=".07" stroke="#38BDF8" stroke-opacity=".26"/>
+      <circle cx="291" cy="409" r="3" fill="#38BDF8"/>
+      <text x="305" y="413" fill="#BAE6FD">COMPUTER VISION</text>
+
+      <rect x="471" y="391" width="135" height="36" rx="18"
+        fill="#2DD4BF" fill-opacity=".07" stroke="#2DD4BF" stroke-opacity=".26"/>
+      <circle cx="490" cy="409" r="3" fill="#2DD4BF"/>
+      <text x="504" y="413" fill="#99F6E4">AQUAGUARD</text>
+    </g>
+
+    <!-- Orbital research illustration -->
+    <circle cx="1000" cy="274" r="202"
+      stroke="#5EEAD4" stroke-opacity=".045"/>
+
+    <circle cx="1000" cy="274" r="176"
+      stroke="#5EEAD4" stroke-opacity=".12"/>
+
+    <circle cx="1000" cy="274" r="125"
+      stroke="#94A3B8" stroke-opacity=".09" stroke-dasharray="2 10"/>
+
+    <g class="orbit">
+      <circle cx="1000" cy="274" r="176"
+        stroke="#5EEAD4" stroke-opacity=".6"
+        stroke-dasharray="95 1011" stroke-linecap="round"/>
+      <circle cx="1000" cy="98" r="4" fill="#99F6E4"/>
+    </g>
+
+    <g class="orbit-reverse">
+      <circle cx="1000" cy="274" r="202"
+        stroke="#818CF8" stroke-opacity=".35"
+        stroke-dasharray="48 1222" stroke-linecap="round"/>
+      <circle cx="1000" cy="476" r="3" fill="#A5B4FC"/>
+    </g>
+
+    <!-- Connections -->
+    <g stroke-width="1.5">
+      <path d="M1000 225V170" stroke="#FBBF24" stroke-opacity=".22"/>
+      <path d="M940 304L879 336" stroke="#38BDF8" stroke-opacity=".22"/>
+      <path d="M1060 304L1121 336" stroke="#2DD4BF" stroke-opacity=".22"/>
+
+      <path d="M1000 225V170" stroke="#FBBF24" stroke-opacity=".8" class="signal"/>
+      <path d="M940 304L879 336" stroke="#38BDF8" stroke-opacity=".8" class="signal"/>
+      <path d="M1060 304L1121 336" stroke="#2DD4BF" stroke-opacity=".8" class="signal"/>
+    </g>
+
+    <!-- Energy + AI core -->
+    <circle cx="1000" cy="274" r="112" fill="url(#coreGlow)"/>
+    <circle cx="1000" cy="274" r="78" fill="#0D1A27" stroke="#365051"/>
+    <circle cx="1000" cy="274" r="69" stroke="#FBBF24" stroke-opacity=".10"/>
+
+    <path
+      d="M1009 221L974 277H997L986 316L1028 258H1004L1009 221Z"
+      fill="url(#bolt)"
+      stroke="#FEF3C7"
+      stroke-opacity=".65"
+      stroke-linejoin="round"
+    />
+
+    <text x="1000" y="337" text-anchor="middle" class="mono"
+      fill="#C8D7DF" font-size="9" letter-spacing="2">ENERGY × AI</text>
+
+    <!-- Solar node -->
+    <circle cx="1000" cy="131" r="47"
+      fill="#131C26" stroke="#FBBF24" stroke-opacity=".55"/>
+    <circle cx="1000" cy="131" r="40"
+      stroke="#FBBF24" stroke-opacity=".08"/>
+
+    <g stroke="#FCD34D" stroke-width="1.6" stroke-linecap="round">
+      <circle cx="1000" cy="113" r="9" fill="#FBBF24" fill-opacity=".13"/>
+      <path d="M1000 97V94M984 113H981M1016 113H1019"/>
+      <path d="M988 101L986 99M1012 101L1014 99"/>
+      <path d="M980 135H1020L1027 157H973L980 135Z"
+        fill="#FBBF24" fill-opacity=".07" stroke-linejoin="round"/>
+      <path d="M977 146H1023M993 135L990 157M1007 135L1010 157"/>
+      <path d="M1000 157V163M990 163H1010"/>
+    </g>
+
+    <text x="1000" y="197" text-anchor="middle" class="mono"
+      fill="#FDE68A" font-size="10" letter-spacing="1.7">RENEWABLES</text>
+
+    <!-- Computer vision node -->
+    <circle cx="846" cy="350" r="47"
+      fill="#101E2D" stroke="#38BDF8" stroke-opacity=".55"/>
+    <circle cx="846" cy="350" r="40"
+      stroke="#38BDF8" stroke-opacity=".08"/>
+
+    <g stroke="#7DD3FC" stroke-width="1.5" stroke-linejoin="round">
+      <path d="M817 338V328H827M865 328H875V338M817 362V372H827M865 372H875V362"
+        stroke-opacity=".7"/>
+      <path
+        d="M825 350C835 337 850 337 861 348L871 341V360L861 353C849 364 835 363 825 350Z"
+        fill="#38BDF8" fill-opacity=".12"/>
+      <path d="M840 341L847 335L853 342" stroke-opacity=".6"/>
+      <circle cx="834" cy="348" r="1.7" fill="#BAE6FD" stroke="none"/>
+    </g>
+
+    <text x="846" y="417" text-anchor="middle" class="mono"
+      fill="#BAE6FD" font-size="10" letter-spacing="1.7">COMPUTER VISION</text>
+
+    <!-- Water node -->
+    <circle cx="1154" cy="350" r="47"
+      fill="#0D232A" stroke="#2DD4BF" stroke-opacity=".55"/>
+    <circle cx="1154" cy="350" r="40"
+      stroke="#2DD4BF" stroke-opacity=".08"/>
+
+    <path
+      d="M1154 325C1154 325 1137 345 1137 355C1137 365 1144 372 1154 372C1164 372 1171 365 1171 355C1171 345 1154 325 1154 325Z"
+      fill="#2DD4BF" fill-opacity=".12"
+      stroke="#5EEAD4" stroke-width="1.7"/>
+
+    <path d="M1144 355H1149L1153 347L1157 361L1161 353H1166"
+      stroke="#99F6E4" stroke-width="1.5"
+      stroke-linecap="round" stroke-linejoin="round"/>
+
+    <text x="1154" y="417" text-anchor="middle" class="mono"
+      fill="#99F6E4" font-size="10" letter-spacing="1.7">WATER TECHNOLOGY</text>
+
+    <!-- Small decorative coordinates -->
+    <g fill="#7F93AB" fill-opacity=".6" class="mono" font-size="9">
+      <text x="772" y="230">+</text>
+      <text x="1214" y="271">+</text>
+      <text x="925" y="451">+</text>
+    </g>
+
+    <!-- Footer -->
+    <path d="M66 486H1214" stroke="url(#divider)"/>
+
+    <text x="66" y="520" class="mono"
+      fill="#99AFC3" font-size="12" letter-spacing="1.6">
+      MEXICO
+      <tspan fill="#FBBF24"> / </tspan>
+      CZECH REPUBLIC
+      <tspan fill="#38BDF8"> / </tspan>
+      GERMANY
+    </text>
+
+    <text x="1214" y="520" text-anchor="end" class="mono"
+      fill="#99F6E4" font-size="11" letter-spacing="1.7">
+      RESEARCH → REAL-WORLD SYSTEMS
+    </text>
+
+  </g>
+
+  <rect x="1" y="1" width="1278" height="558" rx="28"
+    stroke="url(#edge)" stroke-width="2"/>
+</svg>
