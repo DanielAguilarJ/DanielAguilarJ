@@ -1,234 +1,181 @@
-<!-- =========================================================
-     KEVIN DANIEL AGUILAR JUNCO
-     ENERGY / VISION / IMPACT
-========================================================== -->
+<!--
+  KEVIN DANIEL AGUILAR JUNCO
+  Renewable energy · Computer vision · Environmental technology
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:09111F,65:103039,100:164E63&amp;height=230&amp;text=Kevin%20Daniel%20Aguilar%20Junco&amp;fontSize=38&amp;fontColor=F1F5F9&amp;fontAlignY=40&amp;desc=RENEWABLE%20ENERGY%20%2F%20COMPUTER%20VISION%20%2F%20SUSTAINABLE%20TECH&amp;descSize=14&amp;descAlignY=61&amp;descColor=99F6E4" alt="Kevin Daniel Aguilar Junco — Renewable Energy, Computer Vision, and Sustainable Technology" width="100%" />
+<img src="./assets/hero.svg" alt="Kevin Daniel Aguilar Junco — Renewable Energy Engineering, Computer Vision, and AquaGuard" width="100%" />
 
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/ENERGY-FBBF24?style=flat-square" alt="Energy" />
-<img src="https://img.shields.io/badge/VISION-38BDF8?style=flat-square" alt="Vision" />
-<img src="https://img.shields.io/badge/IMPACT-2DD4BF?style=flat-square" alt="Impact" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=20&amp;duration=3200&amp;pause=1400&amp;color=5EEAD4&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=42&amp;lines=Renewable+Energy+Engineering+%C3%97+Artificial+Intelligence;Computer+Vision+Research+for+Aquaculture;Building+AquaGuard+%E2%80%94+AI+%2B+IoT+for+Water+Monitoring;From+Mexico+to+Research+in+Europe" alt="Renewable Energy Engineering and AI · Computer Vision for Aquaculture · Founder of AquaGuard" width="85%" />
 
-<h3>Renewable energy as a foundation.<br />AI as a tool. Sustainability as a goal.</h3>
+<br />
 
-<p>
-Renewable Energy Engineering Student &nbsp;·&nbsp; Computer Vision Researcher<br />
-Founder of <a href="https://aquaguardia.tech"><strong>AquaGuard</strong></a>
-</p>
-
-<a href="https://danieljunco.com"><img src="https://img.shields.io/badge/Portfolio-09111F?style=for-the-badge&amp;logo=vercel&amp;logoColor=2DD4BF" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/kevin-daniel-aguilar-junco-7085a13b1/"><img src="https://img.shields.io/badge/LinkedIn-09111F?style=for-the-badge&amp;logo=linkedin&amp;logoColor=38BDF8" alt="LinkedIn" /></a>
-<a href="mailto:al345735@edu.uaa.mx"><img src="https://img.shields.io/badge/Email-09111F?style=for-the-badge&amp;logo=gmail&amp;logoColor=FBBF24" alt="Email" /></a>
-<a href="https://aquaguardia.tech"><img src="https://img.shields.io/badge/AquaGuard-09111F?style=for-the-badge&amp;logo=leaflet&amp;logoColor=2DD4BF" alt="AquaGuard" /></a>
+<a href="https://danieljunco.com"><img src="https://img.shields.io/badge/PORTFOLIO-0D1526?style=for-the-badge&amp;logo=vercel&amp;logoColor=5EEAD4" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/kevin-daniel-aguilar-junco-7085a13b1/"><img src="https://img.shields.io/badge/LINKEDIN-0D1526?style=for-the-badge&amp;logo=linkedin&amp;logoColor=7DD3FC" alt="LinkedIn" /></a>
+<a href="mailto:al345735@edu.uaa.mx"><img src="https://img.shields.io/badge/CONTACT-0D1526?style=for-the-badge&amp;logo=gmail&amp;logoColor=FCD34D" alt="Contact by email" /></a>
+<a href="https://aquaguardia.tech"><img src="https://img.shields.io/badge/AQUAGUARD-0D1526?style=for-the-badge&amp;logo=leaflet&amp;logoColor=5EEAD4" alt="AquaGuard website" /></a>
 
 <br />
 <br />
 
 <sub>
-<a href="#01--about">ABOUT</a>
-&nbsp; / &nbsp;
-<a href="#02--selected-work">PROJECTS</a>
-&nbsp; / &nbsp;
-<a href="#03--research-across-borders">RESEARCH</a>
-&nbsp; / &nbsp;
-<a href="#04--engineering-toolkit">TOOLKIT</a>
-&nbsp; / &nbsp;
-<a href="#05--beyond-the-code">BACKGROUND</a>
+<strong>RENEWABLE ENERGY</strong>
+&nbsp; ✦ &nbsp;
+<strong>COMPUTER VISION</strong>
+&nbsp; ✦ &nbsp;
+<strong>ENVIRONMENTAL TECHNOLOGY</strong>
 </sub>
 
 </div>
 
 <br />
 
-## 01 / About
+## ☀️ Energy is my foundation. Intelligence is my toolkit.
 
-### Engineering with an environmental purpose.
+I'm **Kevin Daniel Aguilar Junco** — a **Renewable Energy Engineering student at Universidad Autónoma de Aguascalientes**, computer vision researcher, and founder of **AquaGuard**.
 
-I'm **Kevin Daniel Aguilar Junco**, a **Renewable Energy Engineering student at Universidad Autónoma de Aguascalientes**, computer vision researcher, and founder of **AquaGuard**.
+My work connects an engineering education in renewable energy with **deep learning, video understanding, and environmental monitoring**. I research how machines can recognize individual fish and build software that turns sensor data into useful information about water systems.
 
-My academic foundation is in renewable energy engineering, with a focus on integrating **AI and data analytics**. Alongside that foundation, I work on **computer vision for aquaculture** and **connected systems for water monitoring**.
+**What drives me:** applying engineering and intelligent systems to practical energy and environmental challenges.
 
-I'm interested in the intersection of energy, intelligent systems, and environmental challenges: how we can use engineering and data to understand physical systems and build useful technology.
+- ☀️ **Studying** Renewable Energy Engineering, with a focus on AI integration and data analytics.
+- 🐟 **Researching** individual fish identification and fish-fin morphology using computer vision.
+- 💧 **Building** AquaGuard — connected water monitoring with AI-assisted leak detection.
+- 🇩🇪 **Currently at** TU Chemnitz through IAESTE, working on sustainable product development.
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<br />
-<sub>01 — ENERGY</sub>
-<h3>Renewable Energy</h3>
-<p>
-My engineering foundation and the starting point for my interest in sustainability, resource efficiency, and environmental technology.
-</p>
-<p>
-<code>Engineering</code><br />
-<code>Sustainability</code><br />
-<code>Data Analytics</code>
-</p>
-</td>
-<td width="33%" valign="top">
-<br />
-<sub>02 — VISION</sub>
-<h3>Intelligent Systems</h3>
-<p>
-Research on video-based fish identification, segmentation, and morphological analysis using computer vision and deep learning.
-</p>
-<p>
-<code>Computer Vision</code><br />
-<code>Deep Learning</code><br />
-<code>Aquaculture</code>
-</p>
-</td>
-<td width="33%" valign="top">
-<br />
-<sub>03 — IMPACT</sub>
-<h3>Environmental Tech</h3>
-<p>
-Building AquaGuard: connecting sensor data, mobile software, and AI-assisted analysis for water monitoring and leak detection.
-</p>
-<p>
-<code>Water Monitoring</code><br />
-<code>AI + IoT</code><br />
-<code>Mobile Development</code>
-</p>
-</td>
-</tr>
-</table>
+> **Renewable energy is not a footnote in my profile — it is the foundation that connects my interest in AI, engineering, and sustainability.**
 
 <br />
 
-> **Currently:** studying Renewable Energy Engineering, building AquaGuard, and working on sustainable product development at **TU Chemnitz, Germany**, through **IAESTE**.
->
-> **Collaboration interests:** renewable energy + AI, computer vision, aquaculture, and environmental monitoring.
+## 🚀 Selected work
 
-<br />
-
-## 02 / Selected Work
-
-**Research, environmental technology, and software — connected through engineering.**
+<p>
+<sub>FROM RESEARCH QUESTIONS TO WORKING SOFTWARE</sub>
+</p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<sub>01 / ENVIRONMENTAL TECHNOLOGY</sub>
+<p>
+<img src="https://img.shields.io/badge/01-WATER_TECH-2DD4BF?style=flat-square&amp;labelColor=0D1526" alt="Project 01 — Water technology" />
+</p>
 
 <h3>💧 AquaGuard</h3>
 
-<p><strong>From sensor signals to water-leak alerts.</strong></p>
+<p><strong>Understand the signals. Protect the water.</strong></p>
 
 <p>
-An Android and IoT project for monitoring flow, pressure, and vibration, with AI-assisted leak detection and notifications.
+An Android + IoT project for monitoring flow, pressure, and vibration, with AI-assisted leak detection and mobile notifications.
 </p>
 
 <p>
-As its founder, I'm bringing together mobile development and connected sensing to address a practical water-management problem.
-</p>
-
-<p>
-<strong>Workflow</strong><br />
-Sensors → Analysis → Alerts → Mobile interface
+Connecting sensor data, on-device analysis, and an accessible mobile interface.
 </p>
 
 <p>
 <code>Kotlin</code>
-<code>Jetpack Compose</code>
+<code>Jetpack Compose</code><br />
 <code>TensorFlow Lite</code>
 <code>MVVM</code>
 </p>
 
+<br />
+
 <p>
-<a href="https://github.com/DanielAguilarJ/AQUAGUARD"><strong>Repository ↗</strong></a>
-&nbsp; · &nbsp;
-<a href="https://aquaguardia.tech"><strong>Website ↗</strong></a>
+<a href="https://github.com/DanielAguilarJ/AQUAGUARD"><strong>Explore code ↗</strong></a>
+&nbsp;&nbsp;
+<a href="https://aquaguardia.tech">Visit website ↗</a>
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-<sub>02 / COMPUTER VISION RESEARCH</sub>
+<p>
+<img src="https://img.shields.io/badge/02-COMPUTER_VISION-38BDF8?style=flat-square&amp;labelColor=0D1526" alt="Project 02 — Computer vision" />
+</p>
 
 <h3>🐟 FISHDEX</h3>
 
-<p><strong>From a short video to an individual fish identity.</strong></p>
+<p><strong>Every fish has an identity.</strong></p>
 
 <p>
-A mobile-to-server computer vision workflow developed during the VSB–Ostrava Summer School, connecting video capture with individual fish identification.
+Video-based individual fish identification: a mobile capture workflow connected to a server-side computer vision pipeline.
 </p>
 
 <p>
-Bringing computer vision research into a mobile workflow for aquaculture applications.
-</p>
-
-<p>
-<strong>Workflow</strong><br />
-Video → ROI detection → Identification → Result
+Developed during the VSB–Ostrava Summer School, bringing research into a mobile application.
 </p>
 
 <p>
 <code>Flutter</code>
-<code>Python</code>
+<code>Python</code><br />
+<code>OBB / ROI Detection</code>
 <code>Computer Vision</code>
-<code>OBB / ROI</code>
 </p>
 
+<br />
+
 <p>
-<a href="https://github.com/DanielAguilarJ/FISHDEX"><strong>Repository ↗</strong></a>
+<a href="https://github.com/DanielAguilarJ/FISHDEX"><strong>Explore code ↗</strong></a>
 </p>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<sub>03 / APPLIED AI</sub>
+<p>
+<img src="https://img.shields.io/badge/03-APPLIED_AI-A78BFA?style=flat-square&amp;labelColor=0D1526" alt="Project 03 — Applied AI" />
+</p>
 
 <h3>🤖 Reclutify</h3>
 
-<p><strong>A conversational approach to recruitment.</strong></p>
+<p><strong>Recruitment through conversation.</strong></p>
 
 <p>
-An AI interview platform featuring Zara, a virtual interviewer for automated voice and text conversations.
+An AI interview platform featuring Zara, a virtual interviewer for automated voice and text interviews.
 </p>
 
 <p>
 <code>Next.js</code>
-<code>TypeScript</code>
+<code>TypeScript</code><br />
 <code>Supabase</code>
 <code>OpenRouter</code>
 </p>
 
 <p>
-<a href="https://github.com/DanielAguilarJ/reclutify"><strong>Repository ↗</strong></a>
+<a href="https://github.com/DanielAguilarJ/reclutify"><strong>Explore code ↗</strong></a>
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-<sub>04 / DESKTOP ENGINEERING</sub>
+<p>
+<img src="https://img.shields.io/badge/04-DESKTOP_ENGINEERING-FBBF24?style=flat-square&amp;labelColor=0D1526" alt="Project 04 — Desktop engineering" />
+</p>
 
 <h3>🌅 ChronoGuard</h3>
 
-<p><strong>A display that follows the sun.</strong></p>
+<p><strong>Your display, in sync with the sun.</strong></p>
 
 <p>
-A native Windows application that adapts monitor color temperature to local solar position, with a Fluent-inspired interface.
+A native Windows app that adjusts monitor color temperature to local solar position, with a Fluent-inspired interface.
 </p>
 
 <p>
 <code>C#</code>
-<code>.NET</code>
+<code>.NET 8</code><br />
 <code>WPF</code>
 <code>Windows API</code>
 </p>
 
 <p>
-<a href="https://github.com/DanielAguilarJ/Flux-windows"><strong>Repository ↗</strong></a>
+<a href="https://github.com/DanielAguilarJ/Flux-windows"><strong>Explore code ↗</strong></a>
 </p>
 
 </td>
@@ -236,164 +183,128 @@ A native Windows application that adapts monitor color temperature to local sola
 </table>
 
 <p align="right">
-<a href="https://github.com/DanielAguilarJ?tab=repositories"><strong>Explore all repositories →</strong></a>
+<a href="https://github.com/DanielAguilarJ?tab=repositories"><strong>More experiments & repositories →</strong></a>
 </p>
 
 <br />
 
-## 03 / Research Across Borders
+## 🌍 Research without borders
 
-### An energy engineering foundation. An international research perspective.
+<div align="center">
 
-🇲🇽 **Mexico** &nbsp; / &nbsp; 🇨🇿 **Czech Republic** &nbsp; / &nbsp; 🇩🇪 **Germany**
+<h3>🇲🇽 &nbsp; México &nbsp; · &nbsp; 🇨🇿 &nbsp; Czech Republic &nbsp; · &nbsp; 🇩🇪 &nbsp; Germany</h3>
 
-My academic and professional experience connects renewable energy engineering, computer vision, and sustainable product development.
+<sub>AN ENGINEERING FOUNDATION IN MEXICO. RESEARCH EXPERIENCE ACROSS EUROPE.</sub>
 
-<table>
-<tr>
-<td width="25%" valign="top">
-<strong>🇲🇽 UAA</strong><br />
-<sub>ACADEMIC FOUNDATION</sub>
-</td>
-<td valign="top">
-<strong>Renewable Energy Engineering</strong>
-<p>
-Studying at Universidad Autónoma de Aguascalientes since 2022, with a focus on AI integration and data analytics.
-</p>
-<p>
-Alongside my degree, developing AquaGuard and exploring connections between engineering, software, and environmental monitoring.
-</p>
-</td>
-</tr>
-
-<tr>
-<td width="25%" valign="top">
-<strong>🇩🇪 TU Chemnitz</strong><br />
-<sub>IAESTE RESEARCH INTERNSHIP</sub>
-</td>
-<td valign="top">
-<strong>Sustainable Product Development</strong>
-<p>
-Working on material resistance and stiffness through mechanical experiments, simulation, MATLAB, and AI at the Faculty of Mechanical Engineering, under Prof. Jan Reimann.
-</p>
-</td>
-</tr>
-
-<tr>
-<td width="25%" valign="top">
-<strong>🇨🇿 VSB–Ostrava</strong><br />
-<sub>SUMMER SCHOOL</sub>
-</td>
-<td valign="top">
-<strong>Video-Based Individual Fish Identification</strong>
-<p>
-Connecting mobile video capture with server-side computer vision to identify individual fish.
-</p>
-</td>
-</tr>
-
-<tr>
-<td width="25%" valign="top">
-<strong>🇨🇿 University of South Bohemia</strong><br />
-<sub>AQUACULTURE RESEARCH</sub>
-</td>
-<td valign="top">
-<strong>Fish Fin Morphological Analysis</strong>
-<p>
-Research on automatic fish-fin segmentation and classification using YOLO, Mask R-CNN, and OpenCV.
-</p>
-</td>
-</tr>
-</table>
+</div>
 
 <br />
 
-## 04 / Engineering Toolkit
+### 🇩🇪 TU Chemnitz
+**Sustainable Product Development · IAESTE Research Internship**
 
-### Tools for modeling, learning, and building.
+Material resistance and stiffness analysis through mechanical experiments, simulation, MATLAB, and AI at the Faculty of Mechanical Engineering, under **Prof. Jan Reimann**.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=matlab,python,pytorch,tensorflow,opencv,arduino&perline=6" alt="MATLAB, Python, PyTorch, TensorFlow, OpenCV, and Arduino" />
-</p>
+### 🇨🇿 VSB–Technical University of Ostrava
+**Individual Fish Identification · Summer School**
+
+A mobile-to-server workflow that uses short videos and computer vision to identify individual fish — the research context behind **FISHDEX**.
+
+### 🇨🇿 University of South Bohemia
+**Computer Vision for Aquaculture**
+
+Automatic fish-fin segmentation and classification using **YOLO, Mask R-CNN, and OpenCV** for morphological analysis.
 
 <br />
 
-| Domain | Technologies & methods |
-| :--- | :--- |
-| **Scientific computing & analysis** | MATLAB · Python · Simulation · Data analysis |
-| **Computer vision & deep learning** | PyTorch · TensorFlow · OpenCV · YOLO · Mask R-CNN |
-| **Mobile, sensing & edge** | Kotlin · Jetpack Compose · Flutter · Arduino · TensorFlow Lite |
-| **Web applications & data** | TypeScript · React · Next.js · Supabase · Firebase |
-| **Desktop development** | C# · .NET · WPF · Windows API |
-| **Development workflow** | Git · Docker · GitHub Actions |
+## ⚡ Engineering toolkit
+
+**Scientific computing · Deep learning · Computer vision**
+
+<p>
+<img src="https://skillicons.dev/icons?i=matlab,py,pytorch,tensorflow,opencv&amp;theme=dark" alt="MATLAB, Python, PyTorch, TensorFlow, and OpenCV" />
+</p>
+
+**Mobile · Embedded systems · Desktop**
+
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin,flutter,arduino,cpp,cs,dotnet&amp;theme=dark" alt="Kotlin, Flutter, Arduino, C++, C#, and .NET" />
+</p>
+
+**Web · Infrastructure · Development workflow**
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,supabase,firebase,docker,git,githubactions&amp;theme=dark" alt="TypeScript, Next.js, React, Supabase, Firebase, Docker, Git, and GitHub Actions" />
+</p>
 
 <details>
-<summary><strong>More languages & development tools</strong></summary>
+<summary><strong>More about my technical stack</strong></summary>
 
 <br />
 
-**Languages:** Python · TypeScript · JavaScript · C++ · C# · Kotlin · Dart
-
-**Additional tools:** Tailwind CSS · Android Studio · REST APIs
+- **Vision & learning:** YOLO, Mask R-CNN, segmentation, classification, video-based identification.
+- **Mobile & edge:** Jetpack Compose, TensorFlow Lite, Android Studio, MVVM.
+- **Web & desktop:** Tailwind CSS, REST APIs, WPF, Windows API.
+- **Additional languages:** JavaScript and Dart.
 
 </details>
 
 <br />
 
-## 05 / Beyond the Code
+## 🎓 Grounded in renewable energy
 
-<details>
-<summary><strong>🎓 Education & additional training</strong></summary>
-
-<br />
-
-### Renewable Energy Engineering
-
-**Universidad Autónoma de Aguascalientes**  
-B.Sc. in progress · Enrolled in 2022  
+**B.Sc. in Renewable Energy Engineering — in progress**  
+**Universidad Autónoma de Aguascalientes** · Enrolled in 2022  
 Focus: AI integration and data analytics.
 
-### Additional training
+My degree provides the engineering foundation for my interest in applying AI and software to energy and environmental challenges.
+
+<details>
+<summary><strong>📚 Additional training & languages</strong></summary>
+
+<br />
 
 - Computer Vision with OpenCV and Python
 - Robotics and Embedded Systems with Arduino
 - Diploma in Artificial Intelligence for Entrepreneurs and Business Owners
 
-### Languages
-
-- **Spanish:** Native
-- **English:** Full professional proficiency
+**Spanish:** Native  
+**English:** Full professional proficiency
 
 </details>
 
 <details>
-<summary><strong>🧪 Professional experience</strong></summary>
+<summary><strong>🧭 Professional experience</strong></summary>
 
 <br />
 
 | Period | Role | Organization |
 | :--- | :--- | :--- |
-| **2026–Present** | Research Intern — Sustainable Product Development | TU Chemnitz · Germany |
-| **2025–Present** | Founder & CEO | AquaGuard · Mexico |
-| **2023–Present** | Freelance Technology Developer | Fiverr · International clients |
-| **2022–2025** | Marketing Trainer — Digital Marketing, Analytics & AI | WorldBrain México |
-| **2021–2024** | Robotics Programming Instructor | WorldBrain México |
+| 2026–Present | Research Intern — Sustainable Product Development | TU Chemnitz, Germany |
+| 2025–Present | Founder & CEO | AquaGuard, Mexico |
+| 2023–Present | Freelance Technology Developer | Fiverr, international clients |
+| 2022–2025 | Marketing Trainer — Digital Marketing, Analytics & AI | WorldBrain México |
+| 2021–2024 | Robotics Programming Instructor | WorldBrain México |
 
 </details>
-
-<details>
-<summary><strong>📈 Public GitHub activity</strong></summary>
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielAguilarJ&amp;bg_color=09111F&amp;color=94A3B8&amp;line=2DD4BF&amp;point=FBBF24&amp;area=true&amp;area_color=123B42&amp;hide_border=true" alt="DanielAguilarJ's public GitHub contribution activity" width="100%" />
+## 📡 Building in public
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielAguilarJ&amp;bg_color=0D1526&amp;color=99AFC3&amp;line=5EEAD4&amp;point=FCD34D&amp;area=true&amp;area_color=134E4A&amp;hide_border=true&amp;radius=16" alt="DanielAguilarJ's public GitHub contribution activity" width="100%" />
+
+<br />
 
 <sub>
-Public contributions represent only part of my work, alongside research, private development, and collaborations.
+A window into my public development work — alongside research, private projects, and collaborations.
 </sub>
 
-</details>
+</div>
 
+<br />
 <br />
 
 ---
@@ -402,33 +313,31 @@ Public contributions represent only part of my work, alongside research, private
 
 <br />
 
-<sub>E N E R G Y &nbsp; / &nbsp; V I S I O N &nbsp; / &nbsp; I M P A C T</sub>
+<sub>RENEWABLE ENERGY &nbsp; / &nbsp; ARTIFICIAL INTELLIGENCE &nbsp; / &nbsp; ENVIRONMENTAL TECHNOLOGY</sub>
 
-<h2>Let's engineer a more sustainable future.</h2>
+<h2>Better systems.<br />A more sustainable future.</h2>
 
 <p>
 Interested in connecting <strong>renewable energy and AI</strong>?<br />
-Working on <strong>computer vision, aquaculture, or environmental technology</strong>?<br />
-I'd be happy to discuss ideas, research, and collaborations.
+Working on <strong>computer vision, aquaculture, or environmental monitoring</strong>?<br />
+Let's exchange ideas and build something useful.
 </p>
 
 <br />
 
-<a href="mailto:al345735@edu.uaa.mx"><img src="https://img.shields.io/badge/LET'S_TALK-2DD4BF?style=for-the-badge&amp;logo=gmail&amp;logoColor=09111F" alt="Start a conversation by email" /></a>
+<a href="mailto:al345735@edu.uaa.mx"><img src="https://img.shields.io/badge/LET'S_TALK-5EEAD4?style=for-the-badge&amp;logo=gmail&amp;logoColor=0D1526" alt="Let's talk by email" /></a>
 &nbsp;
-<a href="https://danieljunco.com"><img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-09111F?style=for-the-badge&amp;logo=vercel&amp;logoColor=FBBF24" alt="Explore my portfolio" /></a>
+<a href="https://danieljunco.com"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-0D1526?style=for-the-badge&amp;logo=vercel&amp;logoColor=FCD34D" alt="Explore my portfolio" /></a>
 
 <br />
 <br />
 
-<sub>
 <strong>Kevin Daniel Aguilar Junco</strong><br />
-Renewable Energy Engineering · Computer Vision · Sustainable Technology
-</sub>
+<sub>Engineering with purpose. Research with curiosity.</sub>
 
 <br />
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:FBBF24,50:38BDF8,100:2DD4BF&amp;height=5" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1526,50:134E4A,100:2DD4BF&amp;height=100&amp;section=footer" alt="" width="100%" />
 
 </div>
